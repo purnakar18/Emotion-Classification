@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+pandas
+numpy 
+torchvision
+scikit-learn
+Pillow
+opencv-python~=4.6.0.66
+git+https://github.com/openai/CLIP.git
+transformers
